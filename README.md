@@ -1,17 +1,24 @@
 ![logo](https://github.com/Rohitbachchhe17/rohitbachchhe/blob/main/IMG_20240314_092106.jpg)
-<h1 align="center">Hi 👋, I'm Rohit M<h1achchhindra Bachchhe</h1>
+<h1 align="center">Hi 👋, I'm Rohit Bachchhe</h1>
+
+
+ ## Analyst/ Data science/ Machine learning 
 <h3 align="center">A passionate Data Science and Machine Learning From india</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbachchhe17&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbachchhe17" /> </p>
 
-- 🔭 I’m currently working on **Data science project real time industry**
+- 🔭 I’m currently working on **Data science / Power BI / Machine learning/ Excel**
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
 - 📫 How to reach me **rohitbachchhe17@gmail.com**
 
+- Github account: I am updated real time industry project. i am completed internship project also updated Github account.
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gIMcgOG4K2tgG6xyNRROBxEhT44YKzDh/view?usp=drivesdk](https://drive.google.com/file/d/1gIMcgOG4K2tgG6xyNRROBxEhT44YKzDh/view?usp=drivesdk)
+
+- i am updated drive file my course certification and internship certification.(https://drive.google.com/drive/folders/1h7zO0cDZi0ZebTee-wuTdpvzOzarvXhW)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
