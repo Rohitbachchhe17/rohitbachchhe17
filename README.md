@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbachchhe17&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbachchhe17" /> </p>
 
-- 🔭 I’m currently working on **Data science / Power BI / Machine learning/ Excel**
+- 🔭 I’m currently working on **Data science / Power BI / Machine learning/ Advance Excel/Natural Language Processing**
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
