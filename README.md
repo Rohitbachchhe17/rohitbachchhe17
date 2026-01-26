@@ -105,6 +105,85 @@
 </p>
 
 ---
+## 🧠 Technical Skills
+
+### 🖥️ Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-Analytics-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Data Analysis & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analysis-Expert-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-Advanced-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Advanced-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Analytics-Pro-16A34A?style=for-the-badge"/>
+</p>
+
+---
+
+### 📈 Data Visualization & BI Tools
+<p>
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-Advanced-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-Advanced-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zoho%20Analytics-BI%20Platform-CC0000?style=for-the-badge"/>
+</p>
+
+---
+
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-Pro-DC2626?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-Expert-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Production--Ready-0EA5E9?style=for-the-badge"/>
+</p>
+
+---
+
+### 🧬 GenAI Frameworks & Agent Systems
+<p>
+  <img src="https://img.shields.io/badge/LangChain-Advanced-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-Advanced-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-Advanced-9333EA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AutoGenOps-Pro-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP%20Server-LLM%20Infra-4F46E5?style=for-the-badge"/>
+</p>
+
+---
+
+### 🧠 Vector Databases
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-Vector%20Database-0F766E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-0F766E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Weaviate-Vector%20Database-0F766E?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ Automation, Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/n8n-Automation-FF6A00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zapier-Automation-FF4A00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-Automation-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Relational%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-Backend%20Platform-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DataGrip-Database%20IDE-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+</p>
+
+---
+
+### 🔐 Data Governance & Integrity
+<p>
+  <img src="https://img.shields.io/badge/Data%20Integrity-Governance-334155?style=for-the-badge"/>
+</p>
+
 
 ## 📫 Connect with Me
 
@@ -124,4 +203,14 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Interactive+GitHub+Profiles;Sharing+Knowledge+and+Code;Always+Learning+Always+Growing" />
+</p>
+
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+✨ “Without data, you're just another person with an opinion.” ✨
 </p>
