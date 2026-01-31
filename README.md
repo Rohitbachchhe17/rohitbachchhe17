@@ -57,6 +57,10 @@ I focus on transforming **raw data and documents into intelligent decision syste
 <img src="https://img.shields.io/badge/🪐%20Google%20Antigravity-AI%20Tools-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 
+<a href="https://www.jetbrains.com/datagrip/" target="_blank">
+  <img src="https://img.shields.io/badge/🛢️%20DataGrip-SQL%20IDE-000000?style=for-the-badge&logo=datagrip&logoColor=white"/>
+</a>
+
 
 <br/><br/>
 
