@@ -1,216 +1,183 @@
-<!-- ================= PROFILE HEADER ================= -->
+<!-- =========================
+     Rohit Bachchhe – Premium GitHub Profile
+========================= -->
 
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#38BDF8;">Rohit Bachchhe</span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Data Analyst • Data Scientist • AI Engineer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:22C55E&height=220&section=header&text=Rohit%20Bachchhe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+Data+into+Insights;Building+AI+Driven+Solutions;GenAI+%7C+LLMs+%7C+RAG+Systems;Automation+%7C+Analytics+%7C+ML;Always+Learning+Always+Building" 
-  />
-</p>
+</div>
 
----
-
-## 🧑‍💻 About Me
-
-🚀 I am **Rohit Bachchhe**, a results-driven **Data Analyst, Data Scientist, and AI Engineer** passionate about transforming data into **real-world AI solutions**.  
-
-📊 Skilled in **data analysis, machine learning, and Generative AI**, building **RAG-based systems, LLM apps, AI agents, and automated workflows** using modern frameworks.  
-
-🤖 I combine **statistics, ML algorithms, vector databases, and automation platforms** to create **scalable, production-ready AI systems** that enable **data-driven decision-making**.  
-
-⚙️ I love working at the intersection of **data, AI, and automation**, turning complex problems into **efficient, impactful solutions**.  
-
-🌱 Always curious — exploring **emerging AI technologies** to stay ahead and deliver innovation.
-
----
-
-## ⚡ Tech Stack (Animated)
+<h2 align="center">
+🚀 Data Scientist | GenAI Engineer | AI Automation Specialist
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;Data+Analysis+%7C+EDA+%7C+Statistics+%7C+Business+Analytics;Machine+Learning+%7C+LLMs+%7C+RAG+%7C+LangChain+%7C+LangGraph;Automation+%7C+n8n+%7C+Zapier+%7C+Google+Apps+Script" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=Building+Production+Ready+AI+Systems;GenAI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;AI+Automation+using+n8n;Analytics+to+Decision+Systems;Healthcare+and+EV+Intelligence+Projects"/>
 </p>
 
 ---
 
-## 🏅 Skills
+## 👨‍💼 Professional Summary
+
+I am a **Data Scientist & GenAI Engineer** with strong hands-on experience in:
+
+- Production-ready **LLM & RAG pipelines**
+- **AI agents and workflow orchestration**
+- **AI driven analytics dashboards**
+- **Business & healthcare automation systems**
+
+I focus on transforming **raw data and documents into intelligent decision systems** using modern AI stacks.
+
+---
+
+## 🧠 Key Strength Areas
+
+- LLM powered applications & retrieval systems (RAG)
+- AI agent orchestration and tool calling
+- AI automation using n8n
+- Business intelligence and analytics dashboards
+- End-to-end ML pipelines and deployment
+
+---
+
+## ⚙️ Core Technologies
+<p align="center">
+
+<!-- Core Programming -->
+<img src="https://img.shields.io/badge/🐍%20Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/🗄️%20SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/📊%20R-Analytics-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+
+<br/>
+
+<!-- Data & BI -->
+<img src="https://img.shields.io/badge/📈%20Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/📊%20Tableau-Advanced-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/📑%20Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/📉%20Looker%20Studio-Advanced-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<br/>
+
+<!-- ML & AI -->
+<img src="https://img.shields.io/badge/🤖%20Machine%20Learning-Advanced-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20Deep%20Learning-Pro-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧩%20LLMs-Expert-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔍%20RAG-Production--Ready-0EA5E9?style=for-the-badge"/>
+
+<br/>
+
+<!-- GenAI / Agents -->
+<img src="https://img.shields.io/badge/🔗%20LangChain-Advanced-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🕸️%20LangGraph-Advanced-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📚%20LlamaIndex-Advanced-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧭%20MCP%20Server-LLM%20Infra-4F46E5?style=for-the-badge"/>
+
+<br/>
+
+<!-- Vector DB -->
+<img src="https://img.shields.io/badge/🧠%20Pinecone-VectorDB-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20ChromaDB-VectorDB-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20Weaviate-VectorDB-0F766E?style=for-the-badge"/>
+
+<br/>
+
+<!-- Automation / Backend -->
+<img src="https://img.shields.io/badge/⚙️%20n8n-Automation-FF6A00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡%20Zapier-Automation-FF4A00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️%20Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/🗃️%20MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br/>
+
+<!-- Dev & MLOps -->
+<img src="https://img.shields.io/badge/🐳%20Docker-MLOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔥%20Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+</p>
+
+ 
+
+## 🧪 Selected AI & Automation Projects
+
+### 🧠 AI-Powered Student Advisory Chatbot
+- Built structured-data driven academic advisory system
+- RAG over enrollment, program and term history datasets
+- API based chatbot backend using FastAPI
+
+### 🏥 AI-Driven Healthcare Analytics Dashboard
+- No-code AI analytics using n8n and Google Sheets
+- Automated data ingestion, KPI computation and reporting
+
+### 📄 AI Document Intelligence & QA Platform
+- PDF ingestion, chunking, embeddings and PgVector storage
+- Question-answering using LangChain and LLMs
+
+### 🦷 Smart Healthcare Appointment & Bot Automation
+- Telegram bot powered appointment automation
+- n8n workflows with backend integrations
+
+### 🚗 AI & ML-Driven Battery Management System
+- ML based performance and fault prediction models
+- Real-time dashboard and model inference pipeline
+
+---
+
+## 📊 Applied Domains
+
+- Healthcare analytics
+- Education & advisory systems
+- Electric vehicle intelligence
+- Business automation
+- Document intelligence
+
+---
+
+## 🛠️ Tool Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,r,tensorflow,pytorch,fastapi,flask,docker,linux,git,github,postman,vscode&theme=dark"/>
+</p>
+
+---
+
+## 🏆 GitHub Highlights
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rohitbachchhe&theme=algolia&no-frame=true&column=7"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect
 
 <p align="center">
 
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-Analytics-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<a href="https://www.linkedin.com/in/rohit-bachchhe/">
+<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Bachchhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/>
+<a href="mailto:rohit.bachchhe@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-rohit.bachchhe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<!-- Data Analyst Core -->
-<img src="https://img.shields.io/badge/Data%20Analysis-Expert-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-Advanced-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistical%20Analysis-Advanced-334155?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Analytics-Pro-16A34A?style=for-the-badge"/>
-
-<br/>
-
-<!-- Visualization & BI -->
-<img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-Advanced-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Looker%20Studio-Advanced-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zoho%20Analytics-BI%20Platform-CC0000?style=for-the-badge"/>
-
-<br/>
-
-<!-- AI / ML / GenAI -->
-<img src="https://img.shields.io/badge/Machine%20Learning-Advanced-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Engineering-Pro-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-Expert-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-Production--Ready-0EA5E9?style=for-the-badge"/>
-
-<br/>
-
-<!-- GenAI Frameworks -->
-<img src="https://img.shields.io/badge/LangChain-Advanced-1F2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-Advanced-1F2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LlamaIndex-Advanced-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AutoGenOps-Pro-8B5CF6?style=for-the-badge"/>
-
-<br/>
-
-<!-- Vector Databases -->
-<img src="https://img.shields.io/badge/Pinecone-VectorDB-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-VectorDB-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Weaviate-VectorDB-0F766E?style=for-the-badge"/>
-
-<br/>
-
-<!-- Automation & Backend -->
-<img src="https://img.shields.io/badge/n8n-Automation-FF6A00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Zapier-Automation-FF4A00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-Automation-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/DataGrip-DB%20IDE-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-
-<br/>
-
-<!-- Governance -->
-<img src="https://img.shields.io/badge/Data%20Integrity-Governance-334155?style=for-the-badge"/>
+<a href="https://github.com/rohitbachchhe">
+<img src="https://img.shields.io/badge/GitHub-rohitbachchhe-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 ---
-## 🧠 Technical Skills
 
-### 🖥️ Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-Analytics-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
+<div align="center">
 
----
+✨ “Building intelligent systems that convert data into decisions.”
 
-### 📊 Data Analysis & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Data%20Analysis-Expert-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-Advanced-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Advanced-334155?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business%20Analytics-Pro-16A34A?style=for-the-badge"/>
-</p>
+</div>
 
----
-
-### 📈 Data Visualization & BI Tools
-<p>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-Advanced-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-Advanced-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zoho%20Analytics-BI%20Platform-CC0000?style=for-the-badge"/>
-</p>
-
----
-
-### 🤖 Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-16A34A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Engineering-Pro-DC2626?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-Expert-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Production--Ready-0EA5E9?style=for-the-badge"/>
-</p>
-
----
-
-### 🧬 GenAI Frameworks & Agent Systems
-<p>
-  <img src="https://img.shields.io/badge/LangChain-Advanced-1F2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-Advanced-1F2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-Advanced-9333EA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AutoGenOps-Pro-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MCP%20Server-LLM%20Infra-4F46E5?style=for-the-badge"/>
-</p>
-
----
-
-### 🧠 Vector Databases
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-Vector%20Database-0F766E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-0F766E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Weaviate-Vector%20Database-0F766E?style=for-the-badge"/>
-</p>
-
----
-
-### ⚙️ Automation, Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/n8n-Automation-FF6A00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Zapier-Automation-FF4A00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-Automation-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-Relational%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-Backend%20Platform-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DataGrip-Database%20IDE-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-</p>
-
----
-
-### 🔐 Data Governance & Integrity
-<p>
-  <img src="https://img.shields.io/badge/Data%20Integrity-Governance-334155?style=for-the-badge"/>
-</p>
-
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohit-bachchhe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rohit.bachchhe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/rohitbachchhe" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Interactive+GitHub+Profiles;Sharing+Knowledge+and+Code;Always+Learning+Always+Growing" />
-</p>
-
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-<p align="center">
-✨ “Without data, you're just another person with an opinion.” ✨
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=120&section=footer"/>
