@@ -188,7 +188,7 @@ I focus on transforming **raw data and documents into intelligent decision syste
 </a>
 
 <a href="mailto:rohitbachchhe17@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-rohit.bachchhe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-rohitbachchhe17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rohitbachchhe">
