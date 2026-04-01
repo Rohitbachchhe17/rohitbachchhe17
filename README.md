@@ -1,4 +1,4 @@
-<!-- =========================
+ii<!-- =========================
      Rohit Bachchhe – Premium GitHub Profile
 ========================= -->
 
@@ -187,7 +187,7 @@ I focus on transforming **raw data and documents into intelligent decision syste
 <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Bachchhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:rohit.bachchhe@gmail.com">
+<a href="mailto:rohitbachchhe17@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-rohit.bachchhe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
